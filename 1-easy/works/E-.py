@@ -1,3 +1,5 @@
+# E. Самое длинное слово
+# https://contest.yandex.ru/contest/23389/problems/E/
 str_len = int(input())
 list_all = list(map(str, input().split()))
 
