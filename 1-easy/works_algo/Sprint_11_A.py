@@ -2,8 +2,6 @@
 # id 65220917
 # https://contest.yandex.ru/contest/23390/problems/A/
 def _input():
-    # Вообще ни чего не понял), "но каст в int" вроде убрал)
-    # А ну можно попробовать так:
     input()
     all_num = input().split()
     return len(all_num), all_num
