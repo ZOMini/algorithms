@@ -23,3 +23,7 @@ The Algorithms - Python
 * :white_check_mark: [Фибоначчи по модулю.](https://github.com/ZOMini/algorithms/blob/main/2-mid/works_data_type/L-.py) **-**
 * :white_check_mark: [DEQ - full.](https://github.com/ZOMini/algorithms/blob/main/2-mid/works_data_type/L-.py) **-**
 # Hard - Recursion + sort
+* :white_check_mark: [Рекурсия в сортированном массиве 1.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/L-1.py) **-**
+* :white_check_mark: [Рекурсия в сортированном массиве 2.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/L-2.py) **-**
+* :white_check_mark: [Рекурсия. Генератор скобок.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/A-.py) **-**
+* :white_check_mark: [Рекурсия. Комбинации кнопок телефона.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/B-.py) **-**
