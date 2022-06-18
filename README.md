@@ -27,4 +27,5 @@ The Algorithms - Python
 * :white_check_mark: [Рекурсия в сортированном массиве 2.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/L-2.py) **-**
 * :white_check_mark: [Рекурсия. Генератор скобок.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/A-.py) **-**
 * :white_check_mark: [Рекурсия. Комбинации кнопок телефона.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/B-.py) **-**
-* :white_check_mark: [Сортировка слиянием. Матрица списков..](https://contest.yandex.ru/contest/24734/problems/N/) **-**
+* :white_check_mark: [Сортировка слиянием. Матрица списков.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/N-.py) **-**
+* :white_check_mark: [Сортировка слиянием. Разделенная на 2-е функции.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/K-.py) **-**
