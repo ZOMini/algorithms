@@ -32,3 +32,4 @@ The Algorithms - Python
 * :white_check_mark: [Сортировка пересчетом O(n). Элементы часто повторяются.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/G-.py) **-**
 * :white_check_mark: [Массив отсортирован, но начало не извесно.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/Sprint_13_A.py) **-**
 * :white_check_mark: [Эффективная быстрая сортировка.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/Sprint_13_B.py) **-**
+* :white_check_mark: [Эффективное сравнение 2-х списков.](https://github.com/ZOMini/algorithms/blob/main/3-hard-recursion_sort/D-.py) **-**
