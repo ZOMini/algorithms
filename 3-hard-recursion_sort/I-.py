@@ -11,7 +11,6 @@ def solution():
     for i in arr:
         id_dict[i] += 1
     from operator import itemgetter
-    id_dict
     sorted_tuple = sorted(id_dict.items(), key=itemgetter(1))
     return sorted_tuple
 result_dict = solution()
